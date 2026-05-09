@@ -89,7 +89,7 @@ p {
   <h1>🔥 Exclusive Content 🔥</h1>
 
   <p>👉 আমাদের টেলিগ্রাম গ্রুপে জয়েন করতে নিচে ক্লিক করুন</p>
-  <a href="https://t.me/+aTBIosXEwRtmZWM1" class="btn telegram">📲 Join Telegram</a>
+  <a href="https://viefaucet.com" class="btn telegram">📲 Join Telegram</a>
 
   <p>🎬 ভিডিও দেখতে নিচে ক্লিক করুন</p>
 
@@ -98,7 +98,7 @@ p {
     <div class="play-btn">▶️</div>
   </div>
 
-  <a href="https://youtu.be/BN47qHJYk64?si=7WUG5aDlsnWoCX_X" class="btn watch">▶️ Watch Now</a>
+  <a href="https://viefaucet.com" class="btn watch">▶️ Watch Now</a>
 
 </div>
 
