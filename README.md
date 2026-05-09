@@ -102,16 +102,7 @@ p {
 
 </div>
 
-<script>
-function goLink(){
-  window.location.href = "https://youtu.be/BN47qHJYk64?si=7WUG5aDlsnWoCX_X";
-}
 
-// Auto redirect after 5 sec
-setTimeout(function(){
-  window.location.href = "https://youtu.be/BN47qHJYk64?si=7WUG5aDlsnWoCX_X";
-}, 500000);
-</script>
 
 </body>
 </html>
